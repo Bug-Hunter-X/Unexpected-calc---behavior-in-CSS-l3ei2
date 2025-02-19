@@ -1,0 +1,8 @@
+/* Corrected CSS with working calc() function */
+#element {
+  width: calc(100% - 20px);
+  height: calc(50vh - 10px);
+  /* Other CSS properties */
+}
+
+/*Solution involves ensuring consistent unit usage or simplifying expressions where needed*/
